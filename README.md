@@ -1,4 +1,10 @@
-## Welcome to Hellotunmbi's GitHub Pages
+## Welcome to Tunmbi's (@hellotunmbi) GitHub Page
+
+This page describes a little of what I do, am doing and I've done...Projects I have worked on or currently working on.
+
+I intend to share are much as possible and contribute to as many communities I can.
+
+For now...below are just default texts. Am keeping them there to guide in the use of Markdown syntax ... lol. As I get used to them, i'll remove them.
 
 You can use the [editor on GitHub](https://github.com/hellotunmbi/hellotunmbi.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
