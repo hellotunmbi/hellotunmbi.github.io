@@ -7,7 +7,7 @@ I'll be posting my 'thots on lots' plus projects. Feel free to bump in and assis
 
 View My GitHub Profile
 
-Welcome to Tunmbi’s (@hellotunmbi) GitHub Page
+Welcome to Tunmbi’s (@hellotunmbi) GitHub Page.
 
 This page describes a little of what I do, am doing and I have done…Projects I have worked on or currently working on.
 
