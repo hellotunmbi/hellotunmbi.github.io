@@ -1,7 +1,9 @@
 ---
 layout: post
-title: First page on my GitHub Page
+title: First personal page on my GitHub Page
 ---
+
+Here's my first jekyll page. I hope to make it better with time.
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
