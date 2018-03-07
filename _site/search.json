@@ -1,0 +1,36 @@
+[
+  
+  {
+    "title"    : "How to Deploy Angular Application to Heroku",
+    "category" : "",
+    "tags"     : "deployment, angular, heroku",
+    "url"      : "/angular/2017/10/28/how-to-deploy-angular-application-to-heroku/",
+    "date"     : "2017-10-28 16:31:19 +0100"
+    } ,
+    
+  {
+    "title"    : "Complete Step-by-Step Firebase Authentication in Angular 2 — Part 2",
+    "category" : "",
+    "tags"     : "firebase, authentication, angular",
+    "url"      : "/jekyll/2017/10/22/complete-step-by-step-firebase-authentication-in-angular-2-part-2/",
+    "date"     : "2017-10-22 13:31:19 +0100"
+    } ,
+    
+  {
+    "title"    : "Complete Step by Step Firebase Authentication in Angular 2 — Part 1",
+    "category" : "",
+    "tags"     : "authentication, firebase, angular",
+    "url"      : "/authentication/2017/08/18/complete-step-by-step-firebase-authentication-in-angular-2-part-1/",
+    "date"     : "2017-08-18 13:32:18 +0100"
+    } ,
+    
+  {
+    "title"    : "So, What is Jekyll?",
+    "category" : "",
+    "tags"     : "about, jekyll",
+    "url"      : "/jekyll/2014/06/09/so-what-is-jekyll/",
+    "date"     : "2014-06-09 13:32:18 +0100"
+    } 
+    
+  ]
+

@@ -1,86 +1,42 @@
-#
-# This file contains configuration flags to customize your site
-#
-
-# Name of your site (displayed in the header)
-name: Tunmbi
-
-# Short bio or description (displayed in the header)
-description: Frontend Developer | PHP Enthusiast | ES6 | Angular | Everything else inbetween
-
-# URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
-
-#
-# Flags below are optional
-#
-
-# Includes an icon in the footer for each username you enter
-footer-links:
-  dribbble:
-  email: hellotunmbi@gmail.com
-  facebook:
-  flickr:
-  github: hellotunmbi
-  instagram:
-  linkedin:
-  pinterest:
-  rss: # just type anything here for a working RSS icon
-  twitter: hellotunmbi
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
-
-
-# Enter your Disqus shortname (not your username) to enable commenting on posts
-# You can find your shortname on the Settings page of your Disqus account
-disqus:
-
-# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
-
-# Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
-# Used for Sitemap.xml and your RSS feed
-url:
-
-# If you're hosting your site at a Project repository on GitHub pages
-# (http://yourusername.github.io/repository-name)
-# and NOT your User repository (http://yourusername.github.io)
-# then add in the baseurl here, like this: "/repository-name"
+# Site settings
+title: "Tunmbi Banto"
+email: hellotunmbi@gmail.com
+description: "Full Stack Web Developer and Tech Business"
 baseurl: ""
+url: "http://hellotunmbi.me"
+title_description: "Hi.<br/><br/>
+My name is <strong>Olutunmbi Banto</strong>.
+I am a <strong>Full Stack Web Developer</strong>, always on a journey of constantly learning new things -its an addiction. I enjoy building for the web - mostly.<br/><br/>
+Currently, I focus more on building interactive and responsive websites by writing <strong>HTML5, CSS3, Javascript, Angular 2, React and React Native</strong>.<br/><br/>
+Started out my coding journey learning <strong>Java (SE and EE)</strong>, moved on to <strong>PHP</strong> because of its simplicity and powerful backend functionalities. Then decided to learn how the frontend works - its <em>simple complexity</em>. I code plain PHP and also use frameworks like <strong>Codeigniter</strong> and <strong>Laravel</strong><br/><br/>"
+title_image: "http://res.cloudinary.com/domymi7op/image/upload/c_crop,g_face,w_1463,x_423,y_113/v1509486200/me_background_p6ieel.jpg"
+google_analytics: "UA-109565943-1"
+disqus_account: hellotunmbi
+github_repository: https://github.com/hellotunmbi/
+addthis_id:
+post_limit: 5
 
-#
-# !! You don't need to change any of the configuration flags below !!
-#
+# Social usernames/URLs
+twitter_username: hellotunmbi
+github_username:  hellotunmbi
+instagram_username:
+reddit_username:
+linkedin_link: https://linkedin.com/in/hellotunmbi
+stackoverflow_link:
+xing_link:
+facebook_link:
+medium_link: https://medium.com/@hellotunmbi
 
-permalink: /:title/
+# Footer
+footer_left: "Made with <i class=\"fa fa-heart\"></i>"
+footer_right: "&lt;/&gt; on <a href=\"https://github.com/hellotunmbi/hellotunmbi.github.io\">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
 
-# The release of Jekyll Now that you're using
-version: v1.2.0
+# Build settings
+markdown: kramdown
 
-# Jekyll 3 now only supports Kramdown for Markdown
 kramdown:
-  # Use GitHub flavored markdown, including triple backtick fenced code blocks
   input: GFM
-  # Jekyll 3 and GitHub Pages now only support rouge for syntax highlighting
   syntax_highlighter: rouge
-  syntax_highlighter_opts:
-    # Use existing pygments syntax highlighting css
-    css_class: 'highlight'
 
-# Set the Sass partials directory, as we're using @imports
-sass:
-  style: :expanded # You might prefer to minify using :compressed
-
-# Use the following plug-ins
-gems:
-  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
-  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
-
-# Exclude these files from your production _site
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE
-  - README.md
-  - CNAME
+permalink: pretty
+exclude: [vendor]

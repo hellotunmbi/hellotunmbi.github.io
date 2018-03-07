@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tunmbi Banto</title>
+    <description>Full Stack Web Developer and Tech Business</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Wed, 07 Mar 2018 20:42:43 +0100</pubDate>
+    <lastBuildDate>Wed, 07 Mar 2018 20:42:43 +0100</lastBuildDate>
+    <generator>Jekyll v3.4.3</generator>
+    
+      <item>
+        <title>How to Deploy Angular Application to Heroku</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/800/1*PQRcX_spZzucM-o9uLoRaw.png&quot; alt=&quot;Image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;It has always ‘seemed’ easy until you try it. Having deployed other apps to heroku, I encountered series of challenges deploying Angular 4 recently but I pulled through finally. So am writing to explain in details how I did it.&lt;/p&gt;
+
+&lt;p&gt;This article will show you guides on deploying your Angular 2/4 apps easily to Heroku, more importantly, avoiding common pitfalls.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://medium.com/@hellotunmbi/how-to-deploy-angular-application-to-heroku-1d56e09c5147&quot;&gt;Read Full Post&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 28 Oct 2017 16:31:19 +0100</pubDate>
+        <link>http://localhost:4000/angular/2017/10/28/how-to-deploy-angular-application-to-heroku/</link>
+        <guid isPermaLink="true">http://localhost:4000/angular/2017/10/28/how-to-deploy-angular-application-to-heroku/</guid>
+        
+        <category>deployment</category>
+        
+        <category>angular</category>
+        
+        <category>heroku</category>
+        
+        
+        <category>angular</category>
+        
+      </item>
+    
+      <item>
+        <title>Complete Step-by-Step Firebase Authentication in Angular 2 — Part 2</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/800/1*uW3MFfXpxRErw-GJllBe0g.png&quot; alt=&quot;Image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This is a follow up article. In case you have not gone through Part one, it can be found here. Part One entails:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Adding Starting up an Angular (2) application.&lt;/li&gt;
+  &lt;li&gt;Adding authentication&lt;/li&gt;
+  &lt;li&gt;Twitter authentication&lt;/li&gt;
+  &lt;li&gt;Facebook authentication&lt;/li&gt;
+  &lt;li&gt;Gmail authentication&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This Part 2 will walk you through the following:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Safeguarding the dashboard page and other protected pages&lt;/li&gt;
+  &lt;li&gt;Adding Logout functionality&lt;/li&gt;
+  &lt;li&gt;Authentication with Github accounts&lt;/li&gt;
+  &lt;li&gt;Regular sign up/login&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://itnext.io/part-2-complete-step-by-step-firebase-authentication-in-angular-2-25d284102632&quot;&gt;Read Full Article&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 22 Oct 2017 13:31:19 +0100</pubDate>
+        <link>http://localhost:4000/jekyll/2017/10/22/complete-step-by-step-firebase-authentication-in-angular-2-part-2/</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/2017/10/22/complete-step-by-step-firebase-authentication-in-angular-2-part-2/</guid>
+        
+        <category>firebase</category>
+        
+        <category>authentication</category>
+        
+        <category>angular</category>
+        
+        
+        <category>jekyll</category>
+        
+      </item>
+    
+      <item>
+        <title>Complete Step by Step Firebase Authentication in Angular 2 — Part 1</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/800/1*p1tiW8bzzo9goKQA8Nk_Wg.png&quot; alt=&quot;Image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Firebase Authentication provides backend services, easy-to-use SDKs, and ready-made UI libraries to authenticate users to your app. It supports authentication using passwords, phone numbers, popular federated identity providers like Google, Facebook and Twitter, Github and more.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://itnext.io/step-by-step-complete-firebase-authentication-in-angular-2-97ca73b8eb32&quot;&gt;Read Full Post&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 18 Aug 2017 13:32:18 +0100</pubDate>
+        <link>http://localhost:4000/authentication/2017/08/18/complete-step-by-step-firebase-authentication-in-angular-2-part-1/</link>
+        <guid isPermaLink="true">http://localhost:4000/authentication/2017/08/18/complete-step-by-step-firebase-authentication-in-angular-2-part-1/</guid>
+        
+        <category>authentication</category>
+        
+        <category>firebase</category>
+        
+        <category>angular</category>
+        
+        
+        <category>authentication</category>
+        
+      </item>
+    
+      <item>
+        <title>So, What is Jekyll?</title>
+        <description>&lt;p&gt;Jekyll is a tool for transforming your plain text into static websites and
+blogs. It is simple, static, and blog-aware. Jekyll uses the
+&lt;a href=&quot;http://docs.shopify.com/themes/liquid-basics&quot;&gt;Liquid&lt;/a&gt; templating
+language and has builtin &lt;a href=&quot;http://daringfireball.net/projects/markdown/&quot;&gt;Markdown&lt;/a&gt;
+and &lt;a href=&quot;http://en.wikipedia.org/wiki/Textile_(markup_language)&quot;&gt;Textile&lt;/a&gt; support.&lt;/p&gt;
+
+&lt;p&gt;It also ties in nicely to &lt;a href=&quot;https://pages.github.com/&quot;&gt;Github Pages&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Learn more about Jekyll on their &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;website&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 09 Jun 2014 13:32:18 +0100</pubDate>
+        <link>http://localhost:4000/jekyll/2014/06/09/so-what-is-jekyll/</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/2014/06/09/so-what-is-jekyll/</guid>
+        
+        <category>about</category>
+        
+        <category>jekyll</category>
+        
+        
+        <category>jekyll</category>
+        
+      </item>
+    
+  </channel>
+</rss>
