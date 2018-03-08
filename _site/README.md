@@ -1,56 +1,21 @@
-# Carte Noire
+# Tunmbi Banto
 
-A simple Jekyll theme for blogging. Not named after the coffee.
+My Personal website built with Jekyll
 
-![Homepage](http://i.imgur.com/xlmHArV.png)
+Welcome to Tunmbi's Personal Page
 
-### Article
-![Article](http://i.imgur.com/8rD8FfC.png)
+I'll be posting my 'thots on lots' plus projects. Feel free to bump in and assist/ask
 
-### Disqus Comments
-![Comments](http://i.imgur.com/TBZHQwF.png)
+View My GitHub Profile
 
-### Posts grouped by year
-![All Posts](http://i.imgur.com/9bNs2Sc.png)
+Welcome to Tunmbi’s (@hellotunmbi) GitHub Page.
 
-### JavaScript Search
-![Search](http://i.imgur.com/yQqMeSl.png)
+This page describes a little of what I do, am doing and I have done…Projects I have worked on or currently working on.
 
-### Menu by mmenu
-![Menu](http://i.imgur.com/SClrNSH.png)
+I intend to share as much as possible and contribute to as many communities I can possibly.
 
-## Contact
-If you wish to contact me regarding this theme please raise an issue on GitHub,
-tweet me [@_jacobtomlinson](http://www.twitter.com/_jacobtomlinson) or email me
-[jacob@jacobtomlinson.co.uk](mailto:jacob@jacobtomlinson.co.uk).
+For now…below are just default texts. Am keeping them there to guide in the use of Markdown syntax … lol. As I get used to them, i’ll remove them.
 
-## Contribution
-Pull requests are very welcome.
+You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
 
-## Theme
-This jekyll theme has been created from scratch. Ideas and inspiration are taken
-from other places but the code is my own.
-
-## Tools and Libraries
-The following tools and libraries are used in this theme
-
-### JavaScript
- * [jQuery](http://jquery.com/)
- * [MMenu](http://mmenu.frebsite.nl/)
- * [HighlightJS](https://highlightjs.org/)
- * [Simple Jekyll Search](https://github.com/christian-fei/Simple-Jekyll-Search)
-
-### CSS
- * [Bootstrap](http://getbootstrap.com/)
- * [Font Awesome](http://fortawesome.github.io/Font-Awesome/)
-
-### Social
- * [AddThis](http://www.addthis.com/)
- * [Disqus](https://disqus.com/)
-
-### Other
- * [Real Favicon Generator](http://realfavicongenerator.net/)
- * [Google Analytics](http://www.google.com/analytics/)
-
-## License
-The jekyll theme, HTML, CSS and JavaScript is licensed under GPLv3 (unless stated otherwise in the file).
+Whenever you commit to this repository, GitHub Pages will run Jekyll to rebuild the pages in your site, from the content in your Markdown files.
